@@ -36,6 +36,7 @@ fun MyRow() {
             Text(
                 text = stringResource(id = textResId),
                 fontSize = 18.sp
+
             )
         }
     }
