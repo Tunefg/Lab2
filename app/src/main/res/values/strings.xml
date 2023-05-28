@@ -19,5 +19,6 @@
     <string name="Column">Column</string>
     <string name="Box">Box</string>
     <string name="Surface">Surface</string>
+    <string name="Scaffold">Scaffold</string>
 
 </resources>
