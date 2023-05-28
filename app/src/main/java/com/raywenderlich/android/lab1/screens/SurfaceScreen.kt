@@ -1,11 +1,15 @@
 package com.raywenderlich.android.lab1.screens
 
-import android.text.Layout.Alignment
+
+import androidx.compose.foundation.layout.Box
+import androidx.compose.ui.Alignment
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import com.raywenderlich.android.lab1.router.BackButtonHandler
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
+import androidx.compose.ui.Modifier
 import com.raywenderlich.android.lab1.router.Screen
-import java.lang.reflect.Modifier
+
 
 @Composable
 fun SurfaceScreen(modifier: Modifier = Modifier){
